@@ -1,0 +1,8 @@
+8cde8d1f805e8ab5e0119bcb53cd54ee *DESCRIPTION
+1fc9e46906eb512e95032454ff48a7b8 *LICENSE
+98ab3feaf623a953dadc5eae5cc8147f *NAMESPACE
+9f0528c4169fbed95634bb7faa46317e *R/generateRandSymbolSet.r
+02ceafa2436ba3edbe150011080f8f2c *R/generateStringSet.r
+6fbe094c30668a2677a7b03d6c139c43 *R/generatelens.r
+fb00adbe35c5dafdbc8d1c45947a9586 *R/randStr.r
+cf0a8ce9213eadb55577f61a55aa403b *man/randStr.Rd
