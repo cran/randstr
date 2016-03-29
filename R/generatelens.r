@@ -5,7 +5,7 @@ generatelens <- function(maxLen, minLen, stdevLen, nString, distLen){
     len <- round(x = len)
   }
   else if(distLen == 'uniform'){
-    len <- sample(minLen:maxLen, nString)
+    len <- sample(minLen:maxLen, nString, replace = TRUE)
   }
   else{
     len <- "err in generatelens"
